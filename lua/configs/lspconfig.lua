@@ -15,12 +15,8 @@ local servers = {
   "rust_analyzer",
   "ts_ls",
   "clangd",
-  "ruff",
-  "prismals",
-  "nginx_language_server",
   "jdtls",
-  "dockerls",
-  "docker_compose_language_service",
+  "pyright",
 }
 
 local nvlsp = require "nvchad.configs.lspconfig"
